@@ -6,8 +6,7 @@
         {
             "label": "run",
             "type": "shell",
-            "command": "cmd",
-            "args": ["docsify serve docs"]
+            "command": "docsify serve docs"
         }
     ]
 }
