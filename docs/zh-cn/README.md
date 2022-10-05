@@ -2,6 +2,11 @@
 
 > 本教程注重于大批量全自动生成json实践，并不会对理论做太多的讲解。
 
+本教程使用`Minecraft1.18.2`版本、Forge`1.18.2-40.0.42`版本、映射表使用parchment,其版本为`2022.03.13-1.18.2`。\
+本教程使用[Docsify](https://docsify.js.org/#/zh-cn/)来进行页面生成。\
+教程交流群:238439925\
+\
+\
 文本托管链接(讨论可以在任意一个仓库里面讨论):\
 <https://github.com/skyinr/DatagenBook> (提交PR请使用这个)\
 <https://gitee.com/skyinr/DatagenBook> (国内镜像备份)\
